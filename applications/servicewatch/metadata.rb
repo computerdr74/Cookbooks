@@ -1,0 +1,7 @@
+maintainer        "Kenny Wimberly"
+license           "Apache 2.0"
+license          "All rights reserved"
+description      "Installs/Configures ServiceWatch"
+version          "1.0.0"
+supports         "windows"
+depends          "windows"

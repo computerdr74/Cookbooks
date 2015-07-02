@@ -1,0 +1,1 @@
+default['servicewatch']['http_url'] = "https://s3-us-west-2.amazonaws.com/kwtests3bucket/Applications/ServiceNow-ServiceWatch-v3.6.2.4524-setup.exe"
